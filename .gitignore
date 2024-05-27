@@ -3,3 +3,4 @@
 *.depend
 *.cbp
 *.o
+*.out
